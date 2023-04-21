@@ -7,5 +7,7 @@ public class Main {
 
         Osoba osoba = new Osoba("Adam", "Kowalski");
         System.out.println("Imię: " + osoba.imie + "\n" + "Nazwisko:" +osoba.nazwisko);
+        Osoba osoba2 = new Osoba("Amelia", "Nowak");
+        System.out.println("Imię: " + osoba2.imie + "\n" + "Nazwisko:" +osoba2.nazwisko);
     }
 }
