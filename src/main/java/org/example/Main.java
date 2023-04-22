@@ -12,6 +12,6 @@ public class Main {
         Osoba osoba3 = new Osoba("Amelia ", "Kowalska");
         System.out.println(osoba3.getInfo());
         System.out.println("Hello");
-        System.out.println("hej");
+        System.out.println("TEST lll");
     }
 }
